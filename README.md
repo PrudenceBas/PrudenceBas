@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Prudence Essien Bassey 👋
+# Hi, I'm Prudence 👋
 
-🎓 MSc Computational Science Student at Memorial University of Newfoundland
+🎓 MSc Scientific Computing Student at Memorial University of Newfoundland
 
 💻 Aspiring Software Developer | AI & Data Enthusiast
 
 🔬 Interested in Artificial Intelligence, Machine Learning, Scientific Computing, Data Analytics, and Software Development
 
-🌱 Currently expanding my knowledge in Machine Learning, Reinforcement Learning, Scientific Computing, and Data-Driven Problem Solving.
+🌱 Currently expanding my knowledge in Machine Learning, Scientific Computing, and Data-Driven Problem Solving.
 
 ---
 
@@ -99,7 +99,7 @@ A Python-based command-line wallet application supporting user registration, dep
 
 ## 📫 Connect With Me
 
-* Email: [your-email@example.com](mailto:prudeema@gmail.com)
+* Email: [prudeema@gmail.com](mailto:prudeema@gmail.com)
 
 ---
 
